@@ -153,12 +153,16 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
+
 ![CR 1](https://github.com/user-attachments/assets/d9c004cf-318e-494f-9e22-ee002d7f7a70)
 ![CR 2](https://github.com/user-attachments/assets/e4e05234-dd43-4d30-a274-06957c1c2ee3)
 
 # OUTPUT:
-<img width="1323" height="835" alt="Screenshot 2025-10-10 112445" src="https://github.com/user-attachments/assets/8d5e94a7-b622-4f41-8a67-8e6cf6184c83" />
+
 <img width="643" height="248" alt="Screenshot 2025-10-10 112800" src="https://github.com/user-attachments/assets/d69c05fa-a7aa-4ba4-97ca-f1da57a945ce" />
+
+<img width="1323" height="835" alt="Screenshot 2025-10-10 112445" src="https://github.com/user-attachments/assets/8d5e94a7-b622-4f41-8a67-8e6cf6184c83" />
+
 
 # RESULT:
 
