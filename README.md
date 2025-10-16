@@ -1,3 +1,5 @@
+## NAME : JANANI S
+## REG NO : 212223230086
 # Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
